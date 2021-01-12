@@ -5,3 +5,8 @@
 + this will be highlighted in green
 - this will be highlighted in red
 ```
+
+
+These are <b style='color:red'>red words</b>.
+These are <b style='color:red'>red words</b>.
+These are <b style='color:red'>red words</b>
