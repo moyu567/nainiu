@@ -57,3 +57,31 @@ These are <b style='color:red'>red words</b>
         <td>张</td>
     </tr>
 </table>
+
+
+<span style="color:orange;">Word up</span>
+
+
+
+<style
+  type="text/css">
+h1 {color:red;}
+
+p {color:blue;}
+</style>
+
+架飞机  
+<del>*foo*</del>  
+<a href="foo">*bar</a>
+
+foo
+---
+~~~python
+import
+~~~
+# baz
+
+[Foo*bar\]]:my_(url) 'title (with parens)'
+[Foo*bar\]]
+
+<span style="color:orange;">Word up</span>
