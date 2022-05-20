@@ -99,3 +99,6 @@ import
     <tspan fill="green">world</tspan>!
   </text>
 </svg>
+
+
+(`#ffffff`)
