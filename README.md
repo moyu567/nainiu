@@ -65,10 +65,11 @@ These are <b style='color:red'>red words</b>
 
 <style
   type="text/css">
-h1 {color:red;}
+h1 {color:red;}</style>
 
-p {color:blue;}
-</style>
+<style>p {color:blue;}</style>
+<style>p{color:red;}</style>
+*foo*
 
 架飞机  
 <del>*foo*</del>  
