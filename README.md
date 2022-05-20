@@ -34,3 +34,26 @@ These are <b style='color:red'>red words</b>
       <td>图书</td>
     </tr>
 </table>
+
+
+
+<table>
+    <tr>
+        <td>类别</td>
+        <td>名称</td>
+    </tr>
+    <tr>
+        <td rowspan="2">颜色</td>
+        <td>红色</td>
+    </tr>
+    <tr>
+        <td>黄色</td>
+    </tr>
+    <tr>
+        <td colspan="2">姓氏</td>
+    </tr>
+    <tr>
+        <td>王</td>
+        <td>张</td>
+    </tr>
+</table>
